@@ -58,11 +58,6 @@ Starting security audit...
 
 A simple desktop application built with Python and Tkinter that allows you to hide secret text messages inside images and extract them.
 
-## Screenshot
-
-![Screenshot of the Steganography Tool GUI](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/screenshot.png)
-
-*(**Note:** You should replace the URL above with a real screenshot of your application! Upload a screenshot to your repository and get its raw link.)*
 
 ## Features
 
